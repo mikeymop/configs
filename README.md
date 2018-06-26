@@ -1,7 +1,11 @@
 # configs
 Repo of my linux configs to aid in distrohopping
 
+
 ### .bashrc
+
+**Sources**
+ * [5.13 updated blur](https://www.youtube.com/watch?v=xroL6ZWg2Gs)
 
 ```
 # .bashrc
